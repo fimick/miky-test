@@ -1,3 +1,3 @@
 # miky-test
 
-this repo was use to learn git
+this repo was used to learn git
